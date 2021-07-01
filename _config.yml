@@ -1,0 +1,43 @@
+# Site settings
+title: Nachiket Deo
+name: Nachiket Deo
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Technical Publication
+   url: https://medium.com/dataengineering-and-algorithms
+ - title: GitHub
+   url: https://github.com/Nachiket18/
+
+#Any buzzword skills you want to include
+skills:
+ - SQL
+ - Python
+ - C++
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+
+#Work experience is required
+roles:
+ - title: Senior Software Engineer
+   start: 2017
+   end: 2020
+   employer: Capgemini India Pvt Ltd.
+   description: I joined as college graduate and was trained in ETL technologies like Oracle SQL , Informatica , Teradata , ab-initio. <br/> I worked with leading re-insurance client to develop and support ETL processes using SQL server. <br/> I was involved in SQL code optimisation to improve ETL processess and develop CDC (change data capture mechanism). <\br> Developed backend in MySQL for a healthcare mobile application and co-ordinated with UI team
+ 
+ - title: Lead backend developer
+   start: 2020
+   end: ongoing
+   employer: FitIndia+
+   description: Developing back end structures for mobile application in Python - Flask
+  
+
+#Education is required
+education:
+ - level: Bachelor of Engineering (B.E)
+   date: 2012
+   subject: Information Technology
+   school: University of Pune (SPPU)
+
